@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         
-        let userName = dummyUser
+        let userName = "Dummyuser"
         
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
